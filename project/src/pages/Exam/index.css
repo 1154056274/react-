@@ -1,0 +1,39 @@
+
+Header h2{
+    position: absolute;
+    z-index: 2;
+}
+.top{
+    float: right;
+    margin-top: 10px;
+   
+}
+.top span{
+    margin-right: 20px;
+    cursor: pointer;
+   
+
+}
+.text{
+    margin-top: 200px;
+}
+
+.ant-layout-header{
+    background: #f0f2f5 !important;
+    color:black
+}
+.ant-layout-sider{
+    background: #f0f2f5;
+    color:black;
+   margin-right: 60px;
+   height:1000px;
+   margin-top: -40px;
+}
+.ant-layout-content{
+    background: #ffffff;
+    color:black
+}
+.ant-layout-sider-children{
+    background: #f0f2f5 !important;
+
+}

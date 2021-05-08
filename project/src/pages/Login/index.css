@@ -1,0 +1,8 @@
+.wrapper{
+    width: 100%;
+    height: 100vh;
+    background-image: url('../../logo.jpg');
+}
+.wrapper .form{
+    padding-top: 200px;
+}

@@ -1,0 +1,8 @@
+.templete-wrapper{
+    text-align: left;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.templete-wrapper .questionName{
+    margin-bottom: 10px;
+}

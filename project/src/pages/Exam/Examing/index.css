@@ -1,0 +1,42 @@
+.exam-wrapper{
+padding:80px
+}
+.exam-wrapper .exam-inner{
+   
+    min-height: 500px;
+    border: 1px solid #EBEEF5;
+    background-color: #FFF;
+    color: #303133;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px 0 rgb(0 0 0 / 10%);
+}
+.exam-wrapper .exam-inner .exam-header{
+    padding: 30px 20px;
+    border-bottom: 1px solid #EBEEF5;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.exam-wrapper .exam-inner header .left{
+    float: left;
+    margin-left: 40px;
+    margin-top: -8px;
+
+}
+.exam-wrapper .exam-inner header .right{
+    float: right;
+    margin-right: 40px;
+    margin-top: -8px;
+}
+.exam-wrapper .exam-top .left-top{
+    float: left;
+    margin-top: -50px;
+}
+.exam-wrapper .exam-top .right-top{
+    float: right;
+    margin-top: -50px;
+    margin-right: 50px;
+    color: red;
+    cursor: pointer;
+}
